@@ -1,0 +1,14 @@
+{
+    "list": [
+        {
+            "NAME": "",
+            "ORIGINID": "",
+            "TOKEN": "",
+            "APPID": "",
+            "APPSECRET": "",
+            "EncodingAESKey": "",
+            "USE": 1,
+            "ENABLE": 0
+        }
+    ],
+}
